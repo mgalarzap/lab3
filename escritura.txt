@@ -1,0 +1,1 @@
+Nombre: nombre2, Código de Barras: codigo, cantidad: 20, Precio Venta: 3.0
